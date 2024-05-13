@@ -1,2 +1,2 @@
-# new
-just readme.md
+# newww
+just readme and license
